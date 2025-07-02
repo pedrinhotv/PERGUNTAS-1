@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Ao fazer compras no supermercado, qual das seguintes atitudes  melhor te descreve?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "afirmação"
+                texto: "comprador(a) Consiente",
+                afirmacao: "Você coatuma faer uma lista antesde sair de casa e se esforça para comprar apenass o necessário, evitando promoções que te levariam a adquirir mais  do que relmente precisa. Sua despensa e geladeira são bem organiada e vocẽ sabe oque tem."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                texto: "Comprador(a) impulsivo(a)",
+                afirmacao: "você se sente atraido(a) por ofertas e muitas vezes comnpra masi do que planejava, especialmente itens que você nao use antes que estraguem. ua geladeira e despensa podem ter alguns tesouros escondidos que você esqueceu.
             }
         ]
     },
