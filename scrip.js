@@ -19,54 +19,54 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "sobras de refeições são um desafio para você ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: "mestre das sobras",
+                afirmacao: "você adora transformar sobra em novas deliciosas refeições, ou as congela para consumo posterior. Para você, nada se perde, tudo se transforma"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "Despreocupado(a) com Sobras:",
+                afirmacao: "Você tende a jogar fora as sobras que não foram consumidas imediatamente. A ideia de dar um jeito nas sobras não é algo que te ocorre com frequência."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Quando percebe que um alimento está próximo da validade, qual é sua reação?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto: "Otimizador(a) de Alimentos:",
+                afirmacao: "Você imediatamente pensa em formas de usar aquele alimento, seja cozinhando-o, congelando-o ou oferecendo-o a alguém que possa consumi-lo a tempo."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "Descartador(a) Rápido(a):",
+                afirmacao: "Você tende a jogar fora alimentos que estão perto do vencimento por precaução, mesmo que ainda pareçam bons para consumo."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Como você lida com frutas, legumes e verduras que não estão "perfeitos" esteticamente?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "Consumidor(a) Sem Preconceito: ",
+                afirmacao: "Você entende que a aparência não interfere no sabor ou na qualidade nutricional e compra esses alimentos sem hesitação, sabendo que pode usá-los em diversas preparações."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "Apreciador(a) da Perfeição:",
+                afirmacao: "Você geralmente evita comprar frutas, legumes e verduras que não estão com a aparência impecável, preferindo apenas os bonitos e sem imperfeições."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Qual das afirmações a seguir melhor descreve sua atitude geral em relação ao planejamento de refeições? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "Planejador(a) Estratégico(a):",
+                afirmacao: "Você costuma planejar suas refeições com antecedência, o que te ajuda a comprar apenas o necessário e a evitar desperdícios. Você se sente no controle do que come e do que compra."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: "Aventureiro(a) Culinário(a) (e espontâneo):",
+                afirmacao: "Você prefere decidir o que comer na hora, o que às vezes resulta em compras desnecessárias ou alimentos esquecidos que acabam estragando."
             }
         ]
     },
