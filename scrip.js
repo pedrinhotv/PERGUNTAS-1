@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como você lida com frutas, legumes e verduras que não estão "perfeitos" esteticamente?",
+        enunciado: "Como você lida com frutas, legumes e verduras que não estão perfeitos esteticamente?",
         alternativas: [
             {
                 texto: "Consumidor(a) Sem Preconceito: ",
